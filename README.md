@@ -2,7 +2,6 @@
 
 This is my porfolio covering my work in analytics and data visualization.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ```
 add description to each project here
@@ -16,7 +15,7 @@ add description to each project here
 
 ### Data Visualization: 
 - Project 1: [Visualizing SuperStore Profits](https://public.tableau.com/profile/dardeery#!/vizhome/SuperStoreProfitsDashboard_16068567671030/ProfitsofSuperStore)
-![SuperStore Profits](https://github.com/Dardeery/dardeery.github.io/blob/main/images/Gender%20Gap%20dashboard.png)
+![](https://github.com/Dardeery/dardeery.github.io/blob/main/images/Gender%20Gap%20dashboard.png | width=50)
 
 
 - Project 2: [visualizing Tech Gender inquality](https://public.tableau.com/profile/dardeery#!/vizhome/GenderInequality_16068586318190/GenderGapdashboard)
