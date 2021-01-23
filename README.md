@@ -1,4 +1,4 @@
-##Welcome to Dardeery's Porfolio 
+## Welcome to Dardeery's Porfolio 
 
 This is my porfolio covering my work in analytics and data visualization.
 
