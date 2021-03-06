@@ -4,7 +4,7 @@ This is my porfolio covering my work in analytics and data visualization.
 
 ### Resume: 
 - walk through the resume.
-- links to tableau and github portfolios
+- links to tableau and github portfolios.
 
 ### Data analysis: 
 
